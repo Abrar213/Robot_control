@@ -3,5 +3,5 @@ In the first task, a web page was created to control the robot movement directio
 
 Robot directions control pag
 
-![my image](controlpage.jpeg)
+![my image](control page.jpeg)
 
