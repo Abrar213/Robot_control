@@ -13,24 +13,5 @@ Robot directions control page
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![my image](controlpage.jpeg)
 
