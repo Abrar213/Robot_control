@@ -4,4 +4,4 @@ In the first task, a web page was created to control the robot movement directio
 
 Robot directions control pag
 
-![picture](control page.jpeg)
+![alt text](/controlpage.jpeg?raw=true)
