@@ -13,3 +13,5 @@ There are five options for controlling the movement of the robot
 
 -stop
 
+
+![image](controlpage.jpeg)
